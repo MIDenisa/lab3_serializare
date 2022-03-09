@@ -1,5 +1,5 @@
 package editor_grafic;
 
-public class Triangle {
+public class Triangle extends Shape {
 
 }

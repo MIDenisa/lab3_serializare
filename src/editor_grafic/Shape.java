@@ -1,5 +1,8 @@
 package editor_grafic;
 
-public class Shape {
 
+public abstract class Shape {
+	
+	
+		
 }
