@@ -32,3 +32,4 @@ public class Polygon extends Canvas {
 	    }
 
 }
+/**/

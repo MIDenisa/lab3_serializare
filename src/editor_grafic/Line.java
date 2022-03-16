@@ -33,3 +33,4 @@ public class Line extends Canvas {
         g2.drawLine( 0, 0, x, y );
     }
 }
+/**/
