@@ -1,5 +1,15 @@
 package editor_grafic;
 
-public class Quadrilateral extends Shape {
+import java.awt.*;
 
+public class Quadrilateral extends Canvas {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	public Quadrilateral()
+	{
+	}
 }

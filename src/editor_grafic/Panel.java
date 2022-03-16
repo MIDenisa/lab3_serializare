@@ -3,7 +3,14 @@ package editor_grafic;
 
 import javax.swing.JFrame;
 
-public class Panel {
+
+public class Panel extends JFrame {
+	
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
 	public static void main(String[] args) {
 		JFrame fereastra = new JFrame();
@@ -12,6 +19,8 @@ public class Panel {
 		fereastra.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		fereastra.setVisible(true);
 
+		
+		
 	}
 
 }
