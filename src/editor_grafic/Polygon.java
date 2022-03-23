@@ -4,13 +4,10 @@ import java.awt.*;
 
 public class Polygon extends Canvas {
 	
-		/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
-		int x[]= {12,23,45,50,60,65};
-	    int y[]= {100,110,120,130,140,150};
-	    int nr_of_points=6;
+		
+	private int x[]= {12,23,45,50,60,65};
+	private int y[]= {100,110,120,130,140,150};
+	private int nr_of_points=6;
 	    
 	    // Constructor
 	    public Polygon()

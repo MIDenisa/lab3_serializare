@@ -3,13 +3,9 @@ package editor_grafic;
 import java.awt.*;
 public class Triangle extends Canvas {
 	
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
-	int x[];
-	int y[];
-	int nr_of_points;
+	private int x[];
+	private int y[];
+	private int nr_of_points;
 	
 	public Triangle()
 	{
@@ -28,4 +24,3 @@ public class Triangle extends Canvas {
 	    }
 
 }
-/**/

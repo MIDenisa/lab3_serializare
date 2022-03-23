@@ -5,12 +5,8 @@ import java.awt.*;
 
 public class Line extends Canvas {
 
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
-	int x;
-    int y;
+	private int x;
+	private int y;
     
     // Constructor
     public Line()

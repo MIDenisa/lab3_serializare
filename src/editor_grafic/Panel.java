@@ -16,7 +16,7 @@ public class Panel extends JFrame {
 		JFrame fereastra = new JFrame();
 		fereastra.setSize(900,600);
 		fereastra.setTitle("Tabla de desenat");
-		fereastra.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	    fereastra.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		fereastra.setVisible(true);
 
 		
